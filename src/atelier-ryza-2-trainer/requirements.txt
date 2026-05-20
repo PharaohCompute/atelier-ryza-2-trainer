@@ -1,0 +1,6 @@
+# This file lists the dependencies for the Atelier Ryza 2 Trainer.
+# These are NuGet packages required to build and run the project.
+# Install with: dotnet restore
+
+MemorySharp >= 1.0.3
+Newtonsoft.Json >= 13.0.3
